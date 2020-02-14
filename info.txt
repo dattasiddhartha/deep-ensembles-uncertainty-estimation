@@ -1,9 +1,0 @@
-# Load data + processing it:
-https://github.com/StryxZilla/noob/blob/master/notMNIST.pickle
-https://github.com/shnayder/deep-learning-workshop/blob/master/notmnist.py
-
-notMNIST data downloaded from https://github.com/davidflanagan/notMNIST-to-MNIST; no need .mat conversion
-original notMNIST source site: http://yaroslavvb.blogspot.com/2011/09/notmnist-dataset.html
-
-# MNIST data
-https://github.com/mnielsen/neural-networks-and-deep-learning/blob/master/data/mnist.pkl.gz
