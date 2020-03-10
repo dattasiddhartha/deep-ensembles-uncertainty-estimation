@@ -5,5 +5,3 @@
 * Information on data (MNIST, notMNIST) in the data folder (info.txt)
 * Logic flow can be viewed by looking at the notebooks in the /test directory; the Complete Pipeline notebook is a cleaned up run-through for experiment visualization
 * Implemented on locally then uploaded to Google Colab
-
-##### References
